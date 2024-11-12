@@ -59,6 +59,5 @@ I'm a passionate software developer specializing in backend development with 5+ 
 
 ## 🚀 How to Reach Me
 - [LinkedIn](https://linkedin.com/in/subhojitkundu)
-- [Email](mailto:subhojitkundu@example.com)  
 
 Feel free to explore my repositories and projects! I’m always open to collaboration and innovative ideas. Let's build something amazing together 🚀
