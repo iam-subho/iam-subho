@@ -1,16 +1,64 @@
-## Hi there 👋
+# 👋 Hi, I'm Subhojit Kundu!
 
-<!--
-**iam-subho/iam-subho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate software developer specializing in backend development with 5+ years of experience, primarily in Laravel, CodeIgniter, and PHP-based ecosystems. I excel in creating scalable, efficient, and user-centric applications for diverse domains, from e-commerce platforms to ERP and CRM systems.
 
-Here are some ideas to get you started:
+- 🌱 **Currently Exploring:** MongoDB and advanced cloud architectures
+- 🚀 **Notable Projects:** [RidersConnect](#), a community app for riders (soon on Play Store)
+- 💼 **Professional Goal:** Apply my expertise in backend development and system design to build impactful solutions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Tech Stack
+
+### Languages
+- **Primary:** C++, PHP, HTML, Java
+- **Frontend:** CSS, Bootstrap, TailwindCSS, Vue.js, jQuery
+- **Databases:** MySQL, MongoDB (learning)
+
+### Backend & Frameworks
+- **Frameworks:** Laravel, CodeIgniter, Android (Java)
+- **Concepts:** REST API, WebSocket, Database Optimization, Object-Oriented Programming
+
+### Cloud & DevOps
+- **Cloud Providers:** AWS, DigitalOcean
+- **Tools:** Git, Plesk, PHP CLI, Laravel Schedule, Firebase
+
+### Specialized Integrations
+- **Payment Gateways:** Razorpay, PayU, CCAvenue, Stripe, Cashfree, PhonePe
+- **Social Media APIs:** Facebook Graph API, WhatsApp API
+
+---
+
+## 🌟 Current Projects
+
+- **RidersConnect**:
+  - An app designed to bring riders together with unique features like group rides, live location sharing, SOS alerts, and a social feed.
+  - Technologies: Laravel, MySQL, WebSocket, Firebase, Google Maps API
+
+- **ERP & CRM Systems**:
+  - Development of ERP/CRM backend systems to manage complex workflows, rewards, and real-time notifications.
+  - Technologies: Laravel, AWS, MySQL, Vue.js
+
+---
+
+## 🏆 Career Highlights
+
+- **Senior Developer at ASKTECH.IO** (April 2024 - Present)
+  - Implemented a robust shopping cart system with database-driven rewards
+  - Integrated multiple payment gateways and optimized backend services for scalability
+
+- **PHP Backend Developer at Shining Softech** (January 2019 - March 2024)
+  - Enhanced educational ERP systems with secure video conferencing and real-time updates
+  - Developed REST APIs for seamless integration across platforms
+
+- **Internships & Coursework**:
+  - Graduated with an MCA from Motilal Nehru National Institute of Technology, Allahabad
+  - Coursework in DSA, Operating Systems, DBMS, Computer Networks, and Web Development
+
+---
+
+## 🚀 How to Reach Me
+- [LinkedIn](https://linkedin.com/in/subhojitkundu)
+- [Email](mailto:subhojitkundu@example.com)  
+
+Feel free to explore my repositories and projects! I’m always open to collaboration and innovative ideas. Let's build something amazing together 🚀
