@@ -1,63 +1,107 @@
-# 👋 Hi, I'm Subhojit Kundu!
+<h1 align="center">👋 Hi, I'm Subhojit Kundu!</h1>
+<p align="center">
+  <em>Senior Developer | Backend Specialist | Software Enthusiast</em>
+</p>
 
-I'm a passionate software developer specializing in backend development with 5+ years of experience, primarily in Laravel, CodeIgniter, and PHP-based ecosystems. I excel in creating scalable, efficient, and user-centric applications for diverse domains, from e-commerce platforms to ERP and CRM systems.
-
-- 🌱 **Currently Exploring:** MongoDB and advanced cloud architectures
-- 🚀 **Notable Projects:** [RidersConnect](#), a community app for riders (soon on Play Store)
-- 💼 **Professional Goal:** Apply my expertise in backend development and system design to build impactful solutions
-
----
-
-## 🔧 Tech Stack
-
-### Languages
-- **Primary:** C++, PHP, HTML, Java
-- **Frontend:** CSS, Bootstrap, TailwindCSS, Vue.js, jQuery
-- **Databases:** MySQL, MongoDB (learning)
-
-### Backend & Frameworks
-- **Frameworks:** Laravel, CodeIgniter, Android (Java)
-- **Concepts:** REST API, WebSocket, Database Optimization, Object-Oriented Programming
-
-### Cloud & DevOps
-- **Cloud Providers:** AWS, DigitalOcean
-- **Tools:** Git, Plesk, PHP CLI, Laravel Schedule, Firebase
-
-### Specialized Integrations
-- **Payment Gateways:** Razorpay, PayU, CCAvenue, Stripe, Cashfree, PhonePe
-- **Social Media APIs:** Facebook Graph API, WhatsApp API
+<p align="center">
+  <a href="https://linkedin.com/in/subhojit-kundu" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Subhojit%20Kundu-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+  <!--
+  <a href="mailto:subhojitkundu@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-subhojitkundu@example.com-red?style=for-the-badge&logo=gmail" alt="Email">
+  </a>
+  -->
+</p>
 
 ---
 
-## 🌟 Current Projects
-
-- **RidersConnect**:
-  - An app designed to bring riders together with unique features like group rides, live location sharing, SOS alerts, and a social feed.
-  - Technologies: Laravel, MySQL, WebSocket, Firebase, Google Maps API
-
-- **ERP & CRM Systems**:
-  - Development of ERP/CRM backend systems to manage complex workflows, rewards, and real-time notifications.
-  - Technologies: Laravel, AWS, MySQL, Vue.js
+### 🚀 About Me
+I am a skilled software developer with over 5 years of experience, specializing in backend development using Laravel and PHP. My background spans a range of industries, with a strong track record in e-commerce, ERP/CRM systems, and mobile applications. Currently, I'm diving deeper into MongoDB and scalable cloud architectures.
 
 ---
 
-## 🏆 Career Highlights
+<!--
+---
 
-- **Senior Developer at ASKTECH.IO** (April 2024 - Present)
-  - Implemented a robust shopping cart system with database-driven rewards
-  - Integrated multiple payment gateways and optimized backend services for scalability
+### 💼 Professional Experience
 
-- **PHP Backend Developer at Shining Softech** (January 2019 - March 2024)
-  - Enhanced educational ERP systems with secure video conferencing and real-time updates
-  - Developed REST APIs for seamless integration across platforms
+- **Senior Developer** at **ASKTECH.IO**  
+  <small>*April 2024 - Present*</small>
+  - Developed a robust, database-driven shopping cart with rewards integration.
+  - Architected backend ERP/CRM services with real-time notifications and secure payment gateways (Razorpay, Stripe, etc.).
 
-- **Internships & Coursework**:
-  - Graduated with an MCA from Motilal Nehru National Institute of Technology, Allahabad
-  - Coursework in DSA, Operating Systems, DBMS, Computer Networks, and Web Development
+- **PHP Backend Developer** at **Shining Softech**  
+  <small>*January 2019 - March 2024*</small>
+  - Enhanced ERP systems with secure video conferencing and real-time updates.
+  - Integrated REST APIs for seamless functionality across educational and e-commerce platforms.
+---
+-->
+
+### 🌟 Key Projects
+
+#### RidersConnect 🚴‍♂️
+A community app for riders (launching soon on Play Store) with group rides, live location sharing, SOS alerts, and more.  
+**Tech Stack**: Laravel, MySQL, WebSocket, Firebase, Google Maps API
+
+#### ERP & CRM System Development
+Built backend services for ERP and CRM workflows, with robust database handling and payment integrations for real-time transactions.  
+**Tech Stack**: Laravel, AWS, MySQL, Vue.js
+
+#### Graph Generation for College ERP
+Developed visual graphs in CodeIgniter for data analysis within an educational ERP system, offering enhanced insights for administrators.
 
 ---
 
-## 🚀 How to Reach Me
-- [LinkedIn](https://linkedin.com/in/subhojitkundu)
+### 🧰 Tech Stack & Tools
 
-Feel free to explore my repositories and projects! I’m always open to collaboration and innovative ideas. Let's build something amazing together 🚀
+#### 💻 Languages
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++"> &nbsp;
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP"> &nbsp;
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java"> &nbsp;
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML"> &nbsp;
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL">
+</p>
+
+#### 🛠 Frameworks & Libraries
+<p align="center">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" alt="Laravel"> &nbsp;
+  <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=flat&logo=codeigniter&logoColor=white" alt="CodeIgniter"> &nbsp;
+  <img src="https://img.shields.io/badge/Vue.js-42b883?style=flat&logo=vue-dot-js&logoColor=white" alt="Vue.js">
+</p>
+
+#### ☁️ Cloud & DevOps
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white" alt="AWS"> &nbsp;
+  <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=flat&logo=digitalocean&logoColor=white" alt="DigitalOcean"> &nbsp;
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white" alt="Firebase">
+</p>
+
+---
+
+### 🎯 Skills Overview
+
+| Skill               | Proficiency  |
+|---------------------|--------------|
+| **Backend Development**  | ![Backend](https://progress-bar.xyz/90)  |
+| **API Design**          | ![API Design](https://progress-bar.xyz/80)  |
+| **Database Management** | ![Database](https://progress-bar.xyz/70)  |
+| **Frontend Development**| ![Frontend](https://progress-bar.xyz/60)  |
+| **DevOps**              | ![DevOps](https://progress-bar.xyz/50)     |
+
+---
+
+### 📚 Relevant Coursework & Certifications
+- **Master of Computer Application** from MNNIT Allahabad
+- Coursework: Data Structures, Algorithms, DBMS, Operating Systems, Web Development
+
+---
+
+### 📬 Connect with Me
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Subhojit%20Kundu-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/subhojit-kundu)
+<!-- - **Email**: [subhojitkundu@example.com](mailto:subhojitkundu@example.com) -->
+
+---
+
+Thanks for visiting! 🚀 Let's connect, collaborate, and create something amazing together!
