@@ -61,7 +61,7 @@ Developed visual graphs in CodeIgniter for data analysis within an educational E
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP"> &nbsp;
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java"> &nbsp;
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML"> &nbsp;
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL"> &nbsp;
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB"> &nbsp;
 </p>
 
@@ -69,7 +69,7 @@ Developed visual graphs in CodeIgniter for data analysis within an educational E
 <p align="center">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" alt="Laravel"> &nbsp;
   <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=flat&logo=codeigniter&logoColor=white" alt="CodeIgniter"> &nbsp;
-  <img src="https://img.shields.io/badge/Vue.js-42b883?style=flat&logo=vue-dot-js&logoColor=white" alt="Vue.js">
+  <img src="https://img.shields.io/badge/Vue.js-42b883?style=flat&logo=vue-dot-js&logoColor=white" alt="Vue.js"> &nbsp;
   <img src="https://img.shields.io/badge/WebSocket-1E8BC3?style=flat&logo=websocket&logoColor=white" alt="WebSocket"> &nbsp;
 </p>
 
