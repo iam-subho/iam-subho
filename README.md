@@ -56,22 +56,39 @@ Developed visual graphs in CodeIgniter for data analysis within an educational E
 ### 🧰 Tech Stack & Tools
 
 #### 💻 Languages
-<p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++"> &nbsp;
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP"> &nbsp;
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java"> &nbsp;
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML"> &nbsp;
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL"> &nbsp;
+<p align="center"> 
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++"> &nbsp; 
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP"> &nbsp; 
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java"> &nbsp; 
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML"> &nbsp; 
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL"> &nbsp; 
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB"> &nbsp;
-</p>
+</p
 
 #### 🛠 Frameworks & Libraries
-<p align="center">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" alt="Laravel"> &nbsp;
-  <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=flat&logo=codeigniter&logoColor=white" alt="CodeIgniter"> &nbsp;
-  <img src="https://img.shields.io/badge/Vue.js-42b883?style=flat&logo=vue-dot-js&logoColor=white" alt="Vue.js"> &nbsp;
-  <img src="https://img.shields.io/badge/WebSocket-1E8BC3?style=flat&logo=websocket&logoColor=white" alt="WebSocket"> &nbsp;
+<p align="center"> 
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" alt="Laravel"> &nbsp; 
+  <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=flat&logo=codeigniter&logoColor=white" alt="CodeIgniter"> &nbsp; 
+  <img src="https://img.shields.io/badge/Vue.js-42b883?style=flat&logo=vue-dot-js&logoColor=white" alt="Vue.js"> &nbsp; 
+  <img src="https://img.shields.io/badge/WebSocket-1E8BC3?style=flat&logo=websocket&logoColor=white" alt="WebSocket"> &nbsp; 
 </p>
+
+#### 🎨 UI Frameworks & Tools
+<p align="center"> 
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"> &nbsp; 
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap"> &nbsp; 
+</p>
+
+#### 💳 Payment Gateways
+<p align="center"> 
+  <img src="https://img.shields.io/badge/Stripe-008CFF?style=flat&logo=stripe&logoColor=white" alt="Stripe"> &nbsp; 
+  <img src="https://img.shields.io/badge/Razorpay-4E0B35?style=flat&logo=razorpay&logoColor=white" alt="Razorpay"> &nbsp; 
+  <img src="https://img.shields.io/badge/PhonePe-0066CC?style=flat&logo=phonepe&logoColor=white" alt="PhonePe"> &nbsp; 
+</p>
+
+#### ⚙️ Version Control
+<p align="center"> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"> &nbsp; </p>
+
 
 #### ☁️ Cloud & DevOps
 <p align="center">
