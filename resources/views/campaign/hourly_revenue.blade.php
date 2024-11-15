@@ -43,8 +43,12 @@
                     </tr>
                 @endforelse
                    <tr>
-                       <td colspan="2"></td>
+                       <td colspan="2">Sub Total Revenue</td>
                        <td class="px-4 py-2 text-sm text-gray-600" >$ {{ number_format($total_rev,config('app.decimel_digit')) }}</td>
+                   </tr>
+                   <tr>
+                       <td colspan="2">Total Revenue</td>
+                       <td class="px-4 py-2 text-sm text-gray-600" >$ {{ number_format($totalRevenue,config('app.decimel_digit')) }}</td>
                    </tr>
 
                 </tbody>

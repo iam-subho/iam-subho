@@ -15,11 +15,18 @@ class CampaignController extends Controller
     public function index()
     {
 
-        $allCampaignStat = CampaignStat::query()
+        //base query
+        $allQuery = CampaignStat::query()
             ->select('campaign_id', 'utm_term_id', 'revenue as total_revenue')
             ->groupBy('campaign_id')
-            ->with('campaign')
-            ->paginate(10)
+            ->with('campaign');
+
+        // Get total revenue across all campaigns
+        $totalRevenue = $allQuery->get()->sum('total_revenue');
+
+
+        // Paginate and format revenue
+        $allCampaignStat = $allQuery->paginate(10)
             ->through(function ($item) {
                 $item->total_revenue = number_format($item->total_revenue, config('app.decimel_digit'), '.', '');
                 return $item;
@@ -28,13 +35,13 @@ class CampaignController extends Controller
         //$this->my_dd($allCampaignStat);
 
 
-        return view('campaign.index', compact('allCampaignStat'));
+        return view('campaign.index', compact('allCampaignStat', 'totalRevenue'));
     }
 
     /**
      * Display a specific campaign with a hourly breakdown of all revenue
      */
-    public function show(Campaign $campaign,$type = null)
+    public function show(Campaign $campaign, $type = null)
     {
 
         // Start by preparing the common part of the query
@@ -64,6 +71,7 @@ class CampaignController extends Controller
             }
         }
 
+        $totalRevenue = $query->get()->sum('total_revenue');
         // Finalize the query (common code for both DB types)
         $hourlyRevenue = $query
             ->orderBy('hour', 'asc')
@@ -73,7 +81,9 @@ class CampaignController extends Controller
                 return $item;
             });
 
-        return view('campaign.hourly_revenue', compact('campaign', 'hourlyRevenue'));
+        //$totalRevenue = $query->get()->sum('total_revenue');
+
+        return view('campaign.hourly_revenue', compact('campaign', 'hourlyRevenue', 'totalRevenue'));
     }
 
     /**
@@ -84,7 +94,8 @@ class CampaignController extends Controller
         // @TODO implement
     }
 
-    public function my_dd($data){
+    public function my_dd($data)
+    {
         echo '<pre>';
         print_r($data);
         echo '</pre>';

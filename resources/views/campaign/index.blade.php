@@ -17,7 +17,13 @@
                 </tr>
                 </thead>
                 <tbody>
+                @php
+                    $total_rev = 0 ;
+                @endphp
                 @foreach($allCampaignStat as $stat)
+                    @php
+                        $total_rev += $stat->total_revenue;
+                    @endphp
                     <tr class="border-t border-gray-200">
                         <td class="px-4 py-2 text-sm text-gray-600" title="View Details">
                             <a href="{{ route('campaign', ['campaign' => $stat->campaign]) }}">
@@ -34,6 +40,14 @@
                         <td class="px-4 py-2 text-sm text-gray-600">$ {{ $stat->total_revenue }}</td>
                     </tr>
                 @endforeach
+                <tr>
+                    <td colspan="2">Sub Total Revenue</td>
+                    <td class="px-4 py-2 text-sm text-gray-600" >$ {{ number_format($total_rev,config('app.decimel_digit')) }}</td>
+                </tr>
+                <tr>
+                    <td colspan="2">Total Revenue</td>
+                    <td class="px-4 py-2 text-sm text-gray-600" >$ {{ number_format($totalRevenue,config('app.decimel_digit')) }}</td>
+                </tr>
                 </tbody>
             </table>
         </div>
