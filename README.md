@@ -111,11 +111,11 @@ Developed visual graphs in CodeIgniter for data analysis within an educational E
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iam-subho&show_icons=true&locale=en&layout=compact" alt="guptaravimp" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iam-subho&show_icons=true&locale=en&layout=compact" alt="iam-subho" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iam-subho&show_icons=true&locale=en" alt="guptaravimp" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iam-subho&show_icons=true&locale=en" alt="iam-subho" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iam-subho&" alt="guptaravimp" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iam-subho&" alt="iam-subho" /></p>
 
 ---
 
